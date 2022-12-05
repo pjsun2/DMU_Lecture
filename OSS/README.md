@@ -1,19 +1,19 @@
 |파트|파트설명|세부내용|
 |:-----:|:-----:|:---:|
-|OSS_CHAPTER-7|GIT 교과서 1장 정리 내용입니다.|URL|
-|OSS_CHAPTER-7|GIT 교과서 2장 정리 내용입니다.|URL|
-|OSS_CHAPTER-7|GIT 교과서 3장 정리 내용입니다.|URL|
-|OSS_CHAPTER-7|GIT 교과서 4장 정리 내용입니다.|URL|
-|OSS_CHAPTER-7|GIT 교과서 5장 정리 내용입니다.|URL|
-|OSS_CHAPTER-7|GIT 교과서 6장 정리 내용입니다.|URL|
-|OSS_CHAPTER-7|GIT 교과서 7장 정리 내용입니다.|URL|
-|OSS_CHAPTER-7|GIT 교과서 8장 정리 내용입니다.|URL|
-|OSS_CHAPTER-7|GIT 교과서 9장 정리 내용입니다.|URL|
-|OSS_CHAPTER-7|GIT 교과서 10장 정리 내용입니다.|URL|
-|OSS_CHAPTER-7|GIT 교과서 11장 정리 내용입니다.|URL|
-|OSS_CHAPTER-7|GIT 교과서 12장 정리 내용입니다.|URL|
-|마크다운 요약|마크다운(markdown) 태그와 사용 방법|URL|
-|CHEAT SHEET|git cheat sheet & github cheat sheet|URL|
+|OSS_CHAPTER-7|GIT 교과서 1장 정리 내용입니다.|[Click](URL)|
+|OSS_CHAPTER-7|GIT 교과서 2장 정리 내용입니다.|[Click](URL)|
+|OSS_CHAPTER-7|GIT 교과서 3장 정리 내용입니다.|[Click](URL)|
+|OSS_CHAPTER-7|GIT 교과서 4장 정리 내용입니다.|[Click](URL)|
+|OSS_CHAPTER-7|GIT 교과서 5장 정리 내용입니다.|[Click](URL)|
+|OSS_CHAPTER-7|GIT 교과서 6장 정리 내용입니다.|[Click](URL)|
+|OSS_CHAPTER-7|GIT 교과서 7장 정리 내용입니다.|[Click](URL)|
+|OSS_CHAPTER-7|GIT 교과서 8장 정리 내용입니다.|[Click](URL)|
+|OSS_CHAPTER-7|GIT 교과서 9장 정리 내용입니다.|[Click](URL)|
+|OSS_CHAPTER-7|GIT 교과서 10장 정리 내용입니다.|[Click](URL)|
+|OSS_CHAPTER-7|GIT 교과서 11장 정리 내용입니다.|[Click](URL)|
+|OSS_CHAPTER-7|GIT 교과서 12장 정리 내용입니다.|[Click](URL)|
+|마크다운 요약|마크다운(markdown) 태그와 사용 방법|[Click](URL)|
+|CHEAT SHEET|git cheat sheet & github cheat sheet|[Click](URL)|
 
 개인 과제: 개인 github 저장소 구축
 최종 발표일: A, B반 2022-11-30(수), 2022-12-07(수), C반 2022-12-05(월), 2022-12-12(월)
